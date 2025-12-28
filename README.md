@@ -1,6 +1,6 @@
 # Login UI Project
 
-This project is a simple login user interface built using HTML and CSS. It was created as the final project for Module 1 at Bay Valley Tech Code Academy. The goal of the project was to demonstrate an understanding of basic page structure, styling, and layout using core web technologies.
+This project is a simple login user interface built using HTML and CSS. It was created as a project for Module 1 at Bay Valley Tech Code Academy. The goal of the project was to demonstrate an understanding of basic page structure, styling, and layout using core web technologies.
 
 ## Project Files
 
